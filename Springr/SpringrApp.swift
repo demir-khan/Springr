@@ -11,7 +11,7 @@ import SwiftUI
 struct SpringrApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SpringrsListView()
         }
     }
 }
